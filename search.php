@@ -9,7 +9,7 @@
  <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Bài tập lớn nhóm 15</title>
+        <title>Webnews</title>
         <link rel = "preconnect" href = "https://fonts.googleapis.com">
         <link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin>
         <link rel="stylesheet" href="./assets/css/style.css"
